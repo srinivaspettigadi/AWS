@@ -1,0 +1,20 @@
+
+
+https://jaychapel.medium.com/quick-guide-understanding-aws-ip-address-types-839a9eb747f2
+
+https://medium.com/swlh/things-you-wanted-to-know-about-networking-b9537c00d3d3
+
+https://medium.com/@crishantha/handling-elastic-network-interface-s-enis-in-aws-part-01-9696fe6f6df0#:~:text=Go%20to%20Network%20Interfaces%20%E2%86%92,ENI%20(See%20Figure%207).&text=Task%208%3A%20Attach%20the%20additional%20ENI%20to%20the%20EC2%20instance.
+
+https://medium.com/swlh/things-you-wanted-to-know-about-networking-b9537c00d3d3
+
+  
+
+An EC2 instance has 2 private ip's.
+
+Elastic Network Interface (ENI)
+--------------------------------
+An ENI is a virtual interface that can be created, configured and attached to an instance within a VPC. 
+An ENI can include a public IP address, a primary private IP address, an optional elastic IP address, 
+one or more secondary private IP addresses, and more.
+
